@@ -109,7 +109,7 @@ export default function Home() {
         <HomepageFeatures />
       </main>
       <br /><br /><br /><br />
-  
+  <hr/>
   <div className="container" >
 
 <br /><br />
